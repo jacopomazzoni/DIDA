@@ -1,0 +1,536 @@
+"","Occupation","occupation_category","All_workers","All_weekly","M_workers","M_weekly","F_workers","F_weekly"
+"1","Chief executives","MANAGEMENT",1046,2041,763,2251,283,1836
+"2","General and operations managers","MANAGEMENT",823,1260,621,1347,202,1002
+"3","Legislators","MANAGEMENT",8,NA,5,NA,4,NA
+"4","Advertising and promotions managers","MANAGEMENT",55,1050,29,NA,26,NA
+"5","Marketing and sales managers","MANAGEMENT",948,1462,570,1603,378,1258
+"6","Public relations and fundraising managers","MANAGEMENT",59,1557,24,NA,35,NA
+"7","Administrative services managers","MANAGEMENT",170,1191,96,1451,73,981
+"8","Computer and information systems managers","MANAGEMENT",636,1728,466,1817,169,1563
+"9","Financial managers","MANAGEMENT",1124,1408,551,1732,573,1130
+"10","Compensation and benefits managers","MANAGEMENT",23,NA,7,NA,16,NA
+"11","Human resources managers","MANAGEMENT",254,1365,68,1495,186,1274
+"12","Training and development managers","MANAGEMENT",37,NA,17,NA,20,NA
+"13","Industrial production managers","MANAGEMENT",267,1485,221,1528,45,NA
+"14","Purchasing managers","MANAGEMENT",193,1348,109,1404,84,1226
+"15","Transportation, storage, and distribution managers","MANAGEMENT",276,966,224,1006,52,749
+"16","Farmers, ranchers, and other agricultural managers","MANAGEMENT",129,769,106,847,23,NA
+"17","Construction managers","MANAGEMENT",471,1329,429,1357,42,NA
+"18","Education administrators","MANAGEMENT",778,1423,282,1585,496,1252
+"19","Architectural and engineering managers","MANAGEMENT",110,1899,101,1892,10,NA
+"20","Food service managers","MANAGEMENT",763,742,389,820,374,680
+"21","Funeral service managers","MANAGEMENT",13,NA,10,NA,2,NA
+"22","Gaming managers","MANAGEMENT",19,NA,13,NA,6,NA
+"23","Lodging managers","MANAGEMENT",123,985,54,1171,68,902
+"24","Medical and health services managers","MANAGEMENT",592,1210,154,1422,438,1156
+"25","Natural sciences managers","MANAGEMENT",24,NA,11,NA,13,NA
+"26","Postmasters and mail superintendents","MANAGEMENT",20,NA,10,NA,10,NA
+"27","Property, real estate, and community association managers","MANAGEMENT",401,914,171,1137,230,823
+"28","Social and community service managers","MANAGEMENT",305,1022,105,1142,200,965
+"29","Emergency management directors","MANAGEMENT",9,NA,6,NA,3,NA
+"30","Managers, all other","MANAGEMENT",2803,1408,1717,1525,1085,1213
+"31","Agents and business managers of artists, performers, and athletes","BUSINESS",27,NA,13,NA,14,NA
+"32","Buyers and purchasing agents, farm products","BUSINESS",11,NA,9,NA,2,NA
+"33","Wholesale and retail buyers, except farm products","BUSINESS",142,926,73,886,69,985
+"34","Purchasing agents, except wholesale, retail, and farm products","BUSINESS",260,1009,136,1020,124,986
+"35","Claims adjusters, appraisers, examiners, and investigators","BUSINESS",317,963,141,1134,176,824
+"36","Compliance officers","BUSINESS",235,1198,126,1375,109,1025
+"37","Cost estimators","BUSINESS",95,1232,83,1264,12,NA
+"38","Human resources workers","BUSINESS",592,1002,151,1158,441,984
+"39","Compensation, benefits, and job analysis specialists","BUSINESS",63,998,12,NA,50,898
+"40","Training and development specialists","BUSINESS",107,990,42,NA,65,1037
+"41","Logisticians","BUSINESS",111,1028,66,1075,44,NA
+"42","Management analysts","BUSINESS",529,1431,291,1519,237,1348
+"43","Meeting, convention, and event planners","BUSINESS",117,859,27,NA,90,840
+"44","Fundraisers","BUSINESS",62,1136,14,NA,48,NA
+"45","Market research analysts and marketing specialists","BUSINESS",203,1284,85,1411,118,1239
+"46","Business operations specialists, all other","BUSINESS",186,1090,74,1461,112,969
+"47","Accountants and auditors","BUSINESS",1464,1132,618,1345,846,988
+"48","Appraisers and assessors of real estate","BUSINESS",42,NA,21,NA,21,NA
+"49","Budget analysts","BUSINESS",44,NA,17,NA,28,NA
+"50","Credit analysts","BUSINESS",17,NA,8,NA,9,NA
+"51","Financial analysts","BUSINESS",295,1426,168,1680,127,1171
+"52","Personal financial advisors","BUSINESS",407,1419,248,1738,159,1033
+"53","Insurance underwriters","BUSINESS",106,1149,44,NA,63,956
+"54","Financial examiners","BUSINESS",17,NA,9,NA,8,NA
+"55","Credit counselors and loan officers","BUSINESS",313,997,146,1186,166,906
+"56","Tax examiners and collectors, and revenue agents","BUSINESS",59,1051,20,NA,39,NA
+"57","Tax preparers","BUSINESS",56,892,19,NA,37,NA
+"58","Financial specialists, all other","BUSINESS",66,1162,25,NA,40,NA
+"59","Computer and information research scientists","COMPUTATIONAL",28,NA,23,NA,5,NA
+"60","Computer systems analysts","COMPUTATIONAL",499,1389,325,1462,173,1256
+"61","Information security analysts","COMPUTATIONAL",67,1538,56,1562,11,NA
+"62","Computer programmers","COMPUTATIONAL",450,1438,357,1501,93,1302
+"63","Software developers, applications and systems software","COMPUTATIONAL",1287,1682,1054,1751,232,1415
+"64","Web developers","COMPUTATIONAL",151,1165,98,1233,53,1026
+"65","Computer support specialists","COMPUTATIONAL",396,1079,291,1135,105,908
+"66","Database administrators","COMPUTATIONAL",90,1536,58,1829,32,NA
+"67","Network and computer systems administrators","COMPUTATIONAL",208,1242,179,1266,28,NA
+"68","Computer network architects","COMPUTATIONAL",115,1552,100,1577,15,NA
+"69","Computer occupations, all other","COMPUTATIONAL",490,1227,374,1252,116,1145
+"70","Actuaries","COMPUTATIONAL",24,NA,18,NA,6,NA
+"71","Mathematicians","COMPUTATIONAL",6,NA,6,NA,0,NA
+"72","Operations research analysts","COMPUTATIONAL",122,1441,59,1574,63,1325
+"73","Statisticians","COMPUTATIONAL",76,1275,37,NA,39,NA
+"74","Miscellaneous mathematical science occupations","COMPUTATIONAL",1,NA,1,NA,0,NA
+"75","Architects, except naval","ENGINEERING",138,1441,106,1492,31,NA
+"76","Surveyors, cartographers, and photogrammetrists","ENGINEERING",29,NA,23,NA,6,NA
+"77","Aerospace engineers","ENGINEERING",140,1662,122,1668,18,NA
+"78","Agricultural engineers","ENGINEERING",5,NA,5,NA,0,NA
+"79","Biomedical engineers","ENGINEERING",12,NA,10,NA,2,NA
+"80","Chemical engineers","ENGINEERING",79,1532,69,1583,10,NA
+"81","Civil engineers","ENGINEERING",316,1460,275,1474,41,NA
+"82","Computer hardware engineers","ENGINEERING",72,1876,62,1871,10,NA
+"83","Electrical and electronics engineers","ENGINEERING",283,1778,246,1819,37,NA
+"84","Environmental engineers","ENGINEERING",35,NA,26,NA,9,NA
+"85","Industrial engineers, including health and safety","ENGINEERING",205,1447,168,1430,37,NA
+"86","Marine engineers and naval architects","ENGINEERING",9,NA,9,NA,0,NA
+"87","Materials engineers","ENGINEERING",36,NA,33,NA,4,NA
+"88","Mechanical engineers","ENGINEERING",316,1534,294,1550,23,NA
+"89","Mining and geological engineers, including mining safety engineers","ENGINEERING",15,NA,15,NA,0,NA
+"90","Nuclear engineers","ENGINEERING",5,NA,3,NA,2,NA
+"91","Petroleum engineers","ENGINEERING",43,NA,39,NA,3,NA
+"92","Engineers, all other","ENGINEERING",393,1527,339,1537,54,1448
+"93","Drafters","ENGINEERING",114,977,91,977,23,NA
+"94","Engineering technicians, except drafters","ENGINEERING",352,963,284,984,68,827
+"95","Surveying and mapping technicians","ENGINEERING",58,1012,54,1031,4,NA
+"96","Agricultural and food scientists","SCIENCE",22,NA,12,NA,10,NA
+"97","Biological scientists","SCIENCE",74,1233,46,NA,28,NA
+"98","Conservation scientists and foresters","SCIENCE",23,NA,16,NA,7,NA
+"99","Medical scientists","SCIENCE",151,1250,68,1362,84,1082
+"100","Life scientists, all other","SCIENCE",1,NA,1,NA,0,NA
+"101","Astronomers and physicists","SCIENCE",14,NA,11,NA,3,NA
+"102","Atmospheric and space scientists","SCIENCE",8,NA,8,NA,1,NA
+"103","Chemists and materials scientists","SCIENCE",93,1432,61,1496,33,NA
+"104","Environmental scientists and geoscientists","SCIENCE",90,1423,65,1740,25,NA
+"105","Physical scientists, all other","SCIENCE",189,1553,121,1770,68,1170
+"106","Economists","SCIENCE",29,NA,17,NA,12,NA
+"107","Survey researchers","SCIENCE",0,NA,0,NA,0,NA
+"108","Psychologists","SCIENCE",114,1367,31,NA,83,1189
+"109","Sociologists","SCIENCE",0,NA,0,NA,0,NA
+"110","Urban and regional planners","SCIENCE",22,NA,13,NA,9,NA
+"111","Miscellaneous social scientists and related workers","SCIENCE",37,NA,19,NA,19,NA
+"112","Agricultural and food science technicians","SCIENCE",28,NA,21,NA,7,NA
+"113","Biological technicians","SCIENCE",20,NA,10,NA,10,NA
+"114","Chemical technicians","SCIENCE",75,944,43,NA,32,NA
+"115","Geological and petroleum technicians","SCIENCE",22,NA,18,NA,4,NA
+"116","Nuclear technicians","SCIENCE",2,NA,2,NA,0,NA
+"117","Social science research assistants","SCIENCE",3,NA,0,NA,3,NA
+"118","Miscellaneous life, physical, and social science technicians","SCIENCE",157,846,79,1001,78,780
+"119","Counselors","SOCIAL SERVICE",635,904,184,908,451,902
+"120","Social workers","SOCIAL SERVICE",677,877,127,943,549,862
+"121","Probation officers and correctional treatment specialists","SOCIAL SERVICE",85,967,42,NA,43,NA
+"122","Social and human service assistants","SOCIAL SERVICE",173,676,23,NA,149,673
+"123","Miscellaneous community and social service specialists, including health educators and community health workers","SOCIAL SERVICE",92,831,29,NA,63,728
+"124","Clergy","SOCIAL SERVICE",376,1002,316,1021,60,924
+"125","Directors, religious activities and education","SOCIAL SERVICE",62,929,31,NA,31,NA
+"126","Religious workers, all other","SOCIAL SERVICE",44,NA,23,NA,21,NA
+"127","Lawyers","LEGAL",803,1886,503,1914,300,1717
+"128","Judicial law clerks","LEGAL",11,NA,1,NA,10,NA
+"129","Judges, magistrates, and other judicial workers","LEGAL",54,1952,33,NA,20,NA
+"130","Paralegals and legal assistants","LEGAL",341,927,47,NA,294,910
+"131","Miscellaneous legal support workers","LEGAL",136,770,40,NA,97,746
+"132","Postsecondary teachers","EDUCATION",917,1258,516,1405,401,1144
+"133","Preschool and kindergarten teachers","EDUCATION",517,616,11,NA,506,618
+"134","Elementary and middle school teachers","EDUCATION",2806,974,543,1077,2262,957
+"135","Secondary school teachers","EDUCATION",1048,1066,438,1149,610,1006
+"136","Special education teachers","EDUCATION",297,987,38,NA,258,990
+"137","Other teachers and instructors","EDUCATION",378,896,179,1024,199,817
+"138","Archivists, curators, and museum technicians","EDUCATION",38,NA,18,NA,20,NA
+"139","Librarians","EDUCATION",130,991,27,NA,102,966
+"140","Library technicians","EDUCATION",18,NA,4,NA,15,NA
+"141","Teacher assistants","EDUCATION",614,541,48,NA,565,530
+"142","Other education, training, and library workers","EDUCATION",123,1001,28,NA,95,1031
+"143","Artists and related workers","ARTS",58,1166,39,NA,20,NA
+"144","Designers","ARTS",593,993,301,1099,291,918
+"145","Actors","ARTS",12,NA,8,NA,4,NA
+"146","Producers and directors","ARTS",120,1270,67,1340,53,1234
+"147","Athletes, coaches, umpires, and related workers","ARTS",147,780,108,818,39,NA
+"148","Dancers and choreographers","ARTS",11,NA,2,NA,9,NA
+"149","Musicians, singers, and related workers","ARTS",42,NA,33,NA,9,NA
+"150","Entertainers and performers, sports and related workers, all other","ARTS",14,NA,11,NA,3,NA
+"151","Announcers","ARTS",25,NA,21,NA,5,NA
+"152","News analysts, reporters and correspondents","ARTS",56,1218,29,NA,27,NA
+"153","Public relations specialists","ARTS",120,1211,49,NA,71,971
+"154","Editors","ARTS",108,1148,58,1205,50,1125
+"155","Technical writers","ARTS",52,1158,22,NA,30,NA
+"156","Writers and authors","ARTS",79,1232,36,NA,42,NA
+"157","Miscellaneous media and communication workers","ARTS",46,NA,16,NA,30,NA
+"158","Broadcast and sound engineering technicians and radio operators","ARTS",83,954,77,937,7,NA
+"159","Photographers","ARTS",45,NA,24,NA,21,NA
+"160","Television, video, and motion picture camera operators and editors","ARTS",30,NA,28,NA,1,NA
+"161","Media and communication equipment workers, all other","ARTS",2,NA,2,NA,0,NA
+"162","Chiropractors","HEALTHCARE PROFESSIONAL",22,NA,15,NA,7,NA
+"163","Dentists","HEALTHCARE PROFESSIONAL",59,1656,39,NA,20,NA
+"164","Dietitians and nutritionists","HEALTHCARE PROFESSIONAL",79,886,9,NA,69,879
+"165","Optometrists","HEALTHCARE PROFESSIONAL",19,NA,6,NA,13,NA
+"166","Pharmacists","HEALTHCARE PROFESSIONAL",206,1920,98,2117,108,1811
+"167","Physicians and surgeons","HEALTHCARE PROFESSIONAL",740,1824,457,1915,283,1533
+"168","Physician assistants","HEALTHCARE PROFESSIONAL",57,1368,17,NA,40,NA
+"169","Podiatrists","HEALTHCARE PROFESSIONAL",9,NA,5,NA,4,NA
+"170","Audiologists","HEALTHCARE PROFESSIONAL",8,NA,1,NA,6,NA
+"171","Occupational therapists","HEALTHCARE PROFESSIONAL",74,1210,10,NA,64,1199
+"172","Physical therapists","HEALTHCARE PROFESSIONAL",178,1265,56,1347,123,1215
+"173","Radiation therapists","HEALTHCARE PROFESSIONAL",12,NA,5,NA,7,NA
+"174","Recreational therapists","HEALTHCARE PROFESSIONAL",6,NA,2,NA,4,NA
+"175","Respiratory therapists","HEALTHCARE PROFESSIONAL",99,1000,32,NA,67,937
+"176","Speech-language pathologists","HEALTHCARE PROFESSIONAL",108,1147,1,NA,106,1148
+"177","Exercise physiologists","HEALTHCARE PROFESSIONAL",3,NA,3,NA,0,NA
+"178","Therapists, all other","HEALTHCARE PROFESSIONAL",132,944,31,NA,101,951
+"179","Veterinarians","HEALTHCARE PROFESSIONAL",55,1455,16,NA,39,NA
+"180","Registered nurses","HEALTHCARE PROFESSIONAL",2382,1116,278,1222,2104,1098
+"181","Nurse anesthetists","HEALTHCARE PROFESSIONAL",23,NA,11,NA,12,NA
+"182","Nurse midwives","HEALTHCARE PROFESSIONAL",6,NA,0,NA,6,NA
+"183","Nurse practitioners","HEALTHCARE PROFESSIONAL",115,1532,11,NA,103,1522
+"184","Health diagnosing and treating practitioners, all other","HEALTHCARE PROFESSIONAL",2,NA,0,NA,2,NA
+"185","Clinical laboratory technologists and technicians","HEALTHCARE PROFESSIONAL",270,901,69,1089,201,796
+"186","Dental hygienists","HEALTHCARE PROFESSIONAL",86,914,6,NA,80,953
+"187","Diagnostic related technologists and technicians","HEALTHCARE PROFESSIONAL",253,964,76,1106,177,908
+"188","Emergency medical technicians and paramedics","HEALTHCARE PROFESSIONAL",175,811,126,899,49,NA
+"189","Health practitioner support technologists and technicians","HEALTHCARE PROFESSIONAL",487,636,99,652,389,633
+"190","Licensed practical and licensed vocational nurses","HEALTHCARE PROFESSIONAL",508,743,48,NA,459,737
+"191","Medical records and health information technicians","HEALTHCARE PROFESSIONAL",174,740,17,NA,157,723
+"192","Opticians, dispensing","HEALTHCARE PROFESSIONAL",44,NA,21,NA,23,NA
+"193","Miscellaneous health technologists and technicians","HEALTHCARE PROFESSIONAL",99,671,32,NA,66,642
+"194","Other healthcare practitioners and technical occupations","HEALTHCARE PROFESSIONAL",78,1128,40,NA,38,NA
+"195","Nursing, psychiatric, and home health aides","HEALTHCARE SUPPORT",1400,467,163,526,1237,457
+"196","Occupational therapy assistants and aides","HEALTHCARE SUPPORT",17,NA,4,NA,12,NA
+"197","Physical therapist assistants and aides","HEALTHCARE SUPPORT",53,742,18,NA,35,NA
+"198","Massage therapists","HEALTHCARE SUPPORT",37,NA,16,NA,22,NA
+"199","Dental assistants","HEALTHCARE SUPPORT",188,531,14,NA,175,522
+"200","Medical assistants","HEALTHCARE SUPPORT",422,539,35,NA,387,530
+"201","Medical transcriptionists","HEALTHCARE SUPPORT",28,NA,3,NA,26,NA
+"202","Pharmacy aides","HEALTHCARE SUPPORT",22,NA,4,NA,18,NA
+"203","Veterinary assistants and laboratory animal caretakers","HEALTHCARE SUPPORT",21,NA,4,NA,17,NA
+"204","Phlebotomists","HEALTHCARE SUPPORT",91,551,15,NA,76,534
+"205","Miscellaneous healthcare support occupations, including medical equipment preparers","HEALTHCARE SUPPORT",115,524,44,NA,71,511
+"206","First-line supervisors of correctional officers","PROTECTIVE SERVICE",57,856,41,NA,16,NA
+"207","First-line supervisors of police and detectives","PROTECTIVE SERVICE",114,1427,97,1425,17,NA
+"208","First-line supervisors of fire fighting and prevention workers","PROTECTIVE SERVICE",42,NA,39,NA,3,NA
+"209","First-line supervisors of protective service workers, all other","PROTECTIVE SERVICE",72,808,56,825,16,NA
+"210","Firefighters","PROTECTIVE SERVICE",260,1033,245,1052,16,NA
+"211","Fire inspectors","PROTECTIVE SERVICE",18,NA,15,NA,3,NA
+"212","Bailiffs, correctional officers, and jailers","PROTECTIVE SERVICE",453,754,341,779,112,686
+"213","Detectives and criminal investigators","PROTECTIVE SERVICE",141,1159,100,1265,41,NA
+"214","Fish and game wardens","PROTECTIVE SERVICE",6,NA,5,NA,1,NA
+"215","Parking enforcement workers","PROTECTIVE SERVICE",9,NA,6,NA,3,NA
+"216","Police and sheriff's patrol officers","PROTECTIVE SERVICE",655,1002,569,1001,86,1009
+"217","Transit and railroad police","PROTECTIVE SERVICE",3,NA,3,NA,0,NA
+"218","Animal control workers","PROTECTIVE SERVICE",4,NA,2,NA,2,NA
+"219","Private detectives and investigators","PROTECTIVE SERVICE",85,843,49,NA,36,NA
+"220","Security guards and gaming surveillance officers","PROTECTIVE SERVICE",708,567,555,592,153,515
+"221","Crossing guards","PROTECTIVE SERVICE",26,NA,13,NA,13,NA
+"222","Transportation security screeners","PROTECTIVE SERVICE",33,NA,22,NA,11,NA
+"223","Lifeguards and other recreational, and all other protective service workers","PROTECTIVE SERVICE",42,NA,24,NA,18,NA
+"224","Chefs and head cooks","CULINARY",340,619,285,656,55,492
+"225","First-line supervisors of food preparation and serving workers","CULINARY",378,498,156,621,222,458
+"226","Cooks","CULINARY",1302,416,808,427,494,400
+"227","Food preparation workers","CULINARY",366,402,174,414,192,388
+"228","Bartenders","CULINARY",252,521,110,569,142,493
+"229","Combined food preparation and serving workers, including fast food","CULINARY",173,391,67,401,107,380
+"230","Counter attendants, cafeteria, food concession, and coffee shop","CULINARY",56,354,28,NA,28,NA
+"231","Waiters and waitresses","CULINARY",868,451,305,501,563,411
+"232","Food servers, nonrestaurant","CULINARY",93,509,31,NA,62,485
+"233","Dining room and cafeteria attendants and bartender helpers","CULINARY",107,403,59,389,48,NA
+"234","Dishwashers","CULINARY",117,398,98,401,19,NA
+"235","Hosts and hostesses, restaurant, lounge, and coffee shop","CULINARY",66,400,8,NA,58,397
+"236","Food preparation and serving related workers, all other","CULINARY",6,NA,4,NA,3,NA
+"237","First-line supervisors of housekeeping and janitorial workers","GROUNDSKEEPING",172,620,108,700,64,571
+"238","First-line supervisors of landscaping, lawn service, and groundskeeping workers","GROUNDSKEEPING",80,649,79,653,1,NA
+"239","Janitors and building cleaners","GROUNDSKEEPING",1536,507,1111,547,425,429
+"240","Maids and housekeeping cleaners","GROUNDSKEEPING",876,416,134,475,742,407
+"241","Pest control workers","GROUNDSKEEPING",77,585,74,591,3,NA
+"242","Grounds maintenance workers","GROUNDSKEEPING",862,469,824,473,39,NA
+"243","First-line supervisors of gaming workers","SERVICE",117,769,65,900,52,680
+"244","First-line supervisors of personal service workers","SERVICE",60,608,25,NA,35,NA
+"245","Animal trainers","SERVICE",26,NA,19,NA,8,NA
+"246","Nonfarm animal caretakers","SERVICE",100,505,32,NA,68,501
+"247","Gaming services workers","SERVICE",69,676,30,NA,39,NA
+"248","Motion picture projectionists","SERVICE",3,NA,3,NA,0,NA
+"249","Ushers, lobby attendants, and ticket takers","SERVICE",9,NA,5,NA,4,NA
+"250","Miscellaneous entertainment attendants and related workers","SERVICE",69,485,42,NA,28,NA
+"251","Embalmers and funeral attendants","SERVICE",2,NA,2,NA,0,NA
+"252","Morticians, undertakers, and funeral directors","SERVICE",23,NA,17,NA,7,NA
+"253","Barbers","SERVICE",46,NA,33,NA,12,NA
+"254","Hairdressers, hairstylists, and cosmetologists","SERVICE",253,461,23,NA,229,463
+"255","Miscellaneous personal appearance workers","SERVICE",191,501,32,NA,159,497
+"256","Baggage porters, bellhops, and concierges","SERVICE",75,608,63,606,12,NA
+"257","Tour and travel guides","SERVICE",21,NA,11,NA,9,NA
+"258","Childcare workers","SERVICE",407,437,14,NA,393,430
+"259","Personal care aides","SERVICE",680,462,128,537,552,441
+"260","Recreation and fitness workers","SERVICE",185,555,78,684,107,526
+"261","Residential advisors","SERVICE",24,NA,8,NA,16,NA
+"262","Personal care and service workers, all other","SERVICE",67,499,35,NA,32,NA
+"263","First-line supervisors of retail sales workers","SALES",2326,711,1296,825,1030,614
+"264","First-line supervisors of non-retail sales workers","SALES",835,1028,556,1140,280,896
+"265","Cashiers","SALES",1342,415,411,471,931,405
+"266","Counter and rental clerks","SALES",73,594,35,NA,37,NA
+"267","Parts salespersons","SALES",92,601,82,600,11,NA
+"268","Retail salespersons","SALES",1918,590,1159,694,759,494
+"269","Advertising sales agents","SALES",161,925,78,1155,83,729
+"270","Insurance sales agents","SALES",427,815,194,1028,232,717
+"271","Securities, commodities, and financial services sales agents","SALES",211,1155,146,1461,65,767
+"272","Travel agents","SALES",62,711,9,NA,53,685
+"273","Sales representatives, services, all other","SALES",406,966,268,1147,139,699
+"274","Sales representatives, wholesale and manufacturing","SALES",1138,1020,843,1066,295,917
+"275","Models, demonstrators, and product promoters","SALES",15,NA,4,NA,11,NA
+"276","Real estate brokers and sales agents","SALES",463,837,197,1052,266,735
+"277","Sales engineers","SALES",33,NA,31,NA,2,NA
+"278","Telemarketers","SALES",39,NA,17,NA,21,NA
+"279","Door-to-door sales workers, news and street vendors, and related workers","SALES",28,NA,9,NA,18,NA
+"280","Sales and related workers, all other","SALES",158,916,89,1088,70,727
+"281","First-line supervisors of office and administrative support workers","OFFICE",1297,812,434,878,863,781
+"282","Switchboard operators, including answering service","OFFICE",17,NA,7,NA,10,NA
+"283","Telephone operators","OFFICE",22,NA,4,NA,18,NA
+"284","Communications equipment operators, all other","OFFICE",5,NA,2,NA,3,NA
+"285","Bill and account collectors","OFFICE",152,657,54,674,98,648
+"286","Billing and posting clerks","OFFICE",406,657,39,NA,366,664
+"287","Bookkeeping, accounting, and auditing clerks","OFFICE",769,692,87,690,682,692
+"288","Gaming cage workers","OFFICE",11,NA,2,NA,10,NA
+"289","Payroll and timekeeping clerks","OFFICE",128,757,17,NA,111,751
+"290","Procurement clerks","OFFICE",35,NA,15,NA,21,NA
+"291","Tellers","OFFICE",264,514,33,NA,231,516
+"292","Financial clerks, all other","OFFICE",61,767,30,NA,32,NA
+"293","Brokerage clerks","OFFICE",3,NA,1,NA,1,NA
+"294","Correspondence clerks","OFFICE",3,NA,1,NA,2,NA
+"295","Court, municipal, and license clerks","OFFICE",60,755,9,NA,51,743
+"296","Credit authorizers, checkers, and clerks","OFFICE",42,NA,12,NA,29,NA
+"297","Customer service representatives","OFFICE",1760,621,611,690,1149,604
+"298","Eligibility interviewers, government programs","OFFICE",67,781,17,NA,50,805
+"299","File clerks","OFFICE",145,634,25,NA,120,627
+"300","Hotel, motel, and resort desk clerks","OFFICE",127,481,58,486,69,467
+"301","Interviewers, except eligibility and loan","OFFICE",105,615,16,NA,89,617
+"302","Library assistants, clerical","OFFICE",35,NA,7,NA,28,NA
+"303","Loan interviewers and clerks","OFFICE",134,710,25,NA,109,722
+"304","New accounts clerks","OFFICE",20,NA,3,NA,17,NA
+"305","Order clerks","OFFICE",74,599,26,NA,48,NA
+"306","Human resources assistants, except payroll and timekeeping","OFFICE",50,737,11,NA,40,NA
+"307","Receptionists and information clerks","OFFICE",852,575,72,619,781,569
+"308","Reservation and transportation ticket agents and travel clerks","OFFICE",95,713,34,NA,61,680
+"309","Information and record clerks, all other","OFFICE",100,618,22,NA,78,616
+"310","Cargo and freight agents","OFFICE",20,NA,12,NA,9,NA
+"311","Couriers and messengers","OFFICE",153,752,134,750,19,NA
+"312","Dispatchers","OFFICE",250,698,109,759,141,655
+"313","Meter readers, utilities","OFFICE",39,NA,34,NA,4,NA
+"314","Postal service clerks","OFFICE",127,927,76,974,51,833
+"315","Postal service mail carriers","OFFICE",302,954,187,1021,115,854
+"316","Postal service mail sorters, processors, and processing machine operators","OFFICE",53,828,27,NA,26,NA
+"317","Production, planning, and expediting clerks","OFFICE",256,838,116,978,141,732
+"318","Shipping, receiving, and traffic clerks","OFFICE",502,591,354,604,148,566
+"319","Stock clerks and order fillers","OFFICE",1027,520,651,537,376,506
+"320","Weighers, measurers, checkers, and samplers, recordkeeping","OFFICE",59,629,29,NA,31,NA
+"321","Secretaries and administrative assistants","OFFICE",2223,687,124,786,2099,683
+"322","Computer operators","OFFICE",58,751,25,NA,33,NA
+"323","Data entry keyers","OFFICE",223,619,55,589,169,638
+"324","Word processors and typists","OFFICE",68,650,6,NA,62,639
+"325","Desktop publishers","OFFICE",1,NA,1,NA,0,NA
+"326","Insurance claims and policy processing clerks","OFFICE",259,689,56,762,203,675
+"327","Mail clerks and mail machine operators, except postal service","OFFICE",63,563,24,NA,39,NA
+"328","Office clerks, general","OFFICE",929,620,156,609,773,622
+"329","Office machine operators, except computer","OFFICE",31,NA,14,NA,16,NA
+"330","Proofreaders and copy markers","OFFICE",2,NA,0,NA,2,NA
+"331","Statistical assistants","OFFICE",15,NA,5,NA,10,NA
+"332","Office and administrative support workers, all other","OFFICE",391,745,93,852,298,718
+"333","First-line supervisors of farming, fishing, and forestry workers","AGRICULTURAL",42,NA,32,NA,10,NA
+"334","Agricultural inspectors","AGRICULTURAL",12,NA,7,NA,6,NA
+"335","Animal breeders","AGRICULTURAL",2,NA,2,NA,0,NA
+"336","Graders and sorters, agricultural products","AGRICULTURAL",83,486,32,NA,51,468
+"337","Miscellaneous agricultural workers","AGRICULTURAL",613,445,511,460,102,398
+"338","Fishers and related fishing workers","AGRICULTURAL",11,NA,11,NA,0,NA
+"339","Hunters and trappers","AGRICULTURAL",0,NA,0,NA,0,NA
+"340","Forest and conservation workers","AGRICULTURAL",15,NA,10,NA,5,NA
+"341","Logging workers","AGRICULTURAL",31,NA,31,NA,0,NA
+"342","First-line supervisors of construction trades and extraction workers","CONSTRUCTION",560,1040,540,1047,20,NA
+"343","Boilermakers","CONSTRUCTION",21,NA,21,NA,0,NA
+"344","Brickmasons, blockmasons, and stonemasons","CONSTRUCTION",122,652,122,652,0,NA
+"345","Carpenters","CONSTRUCTION",802,687,792,687,10,NA
+"346","Carpet, floor, and tile installers and finishers","CONSTRUCTION",89,637,89,634,1,NA
+"347","Cement masons, concrete finishers, and terrazzo workers","CONSTRUCTION",44,NA,44,NA,0,NA
+"348","Construction laborers","CONSTRUCTION",1181,639,1155,642,25,NA
+"349","Paving, surfacing, and tamping equipment operators","CONSTRUCTION",10,NA,10,NA,0,NA
+"350","Pile-driver operators","CONSTRUCTION",2,NA,2,NA,0,NA
+"351","Operating engineers and other construction equipment operators","CONSTRUCTION",324,856,318,859,6,NA
+"352","Drywall installers, ceiling tile installers, and tapers","CONSTRUCTION",121,596,119,595,2,NA
+"353","Electricians","CONSTRUCTION",651,888,632,891,19,NA
+"354","Glaziers","CONSTRUCTION",33,NA,32,NA,0,NA
+"355","Insulation workers","CONSTRUCTION",43,NA,41,NA,3,NA
+"356","Painters, construction and maintenance","CONSTRUCTION",344,585,330,587,14,NA
+"357","Paperhangers","CONSTRUCTION",0,NA,0,NA,0,NA
+"358","Pipelayers, plumbers, pipefitters, and steamfitters","CONSTRUCTION",456,863,455,862,2,NA
+"359","Plasterers and stucco masons","CONSTRUCTION",20,NA,19,NA,1,NA
+"360","Reinforcing iron and rebar workers","CONSTRUCTION",9,NA,9,NA,0,NA
+"361","Roofers","CONSTRUCTION",171,584,170,580,2,NA
+"362","Sheet metal workers","CONSTRUCTION",106,766,100,776,6,NA
+"363","Structural iron and steel workers","CONSTRUCTION",54,869,52,864,2,NA
+"364","Solar photovoltaic installers","CONSTRUCTION",8,NA,8,NA,0,NA
+"365","Helpers, construction trades","CONSTRUCTION",47,NA,47,NA,0,NA
+"366","Construction and building inspectors","CONSTRUCTION",67,939,58,965,9,NA
+"367","Elevator installers and repairers","CONSTRUCTION",23,NA,23,NA,0,NA
+"368","Fence erectors","CONSTRUCTION",33,NA,33,NA,0,NA
+"369","Hazardous materials removal workers","CONSTRUCTION",39,NA,35,NA,5,NA
+"370","Highway maintenance workers","CONSTRUCTION",91,754,91,755,0,NA
+"371","Rail-track laying and maintenance equipment operators","CONSTRUCTION",9,NA,9,NA,0,NA
+"372","Septic tank servicers and sewer pipe cleaners","CONSTRUCTION",8,NA,8,NA,0,NA
+"373","Miscellaneous construction and related workers","CONSTRUCTION",25,NA,23,NA,2,NA
+"374","Derrick, rotary drill, and service unit operators, oil, gas, and mining","CONSTRUCTION",28,NA,27,NA,1,NA
+"375","Earth drillers, except oil and gas","CONSTRUCTION",30,NA,30,NA,0,NA
+"376","Explosives workers, ordnance handling experts, and blasters","CONSTRUCTION",5,NA,5,NA,0,NA
+"377","Mining machine operators","CONSTRUCTION",68,1106,65,1098,2,NA
+"378","Roof bolters, mining","CONSTRUCTION",3,NA,3,NA,0,NA
+"379","Roustabouts, oil and gas","CONSTRUCTION",7,NA,7,NA,0,NA
+"380","Helpers--extraction workers","CONSTRUCTION",6,NA,6,NA,0,NA
+"381","Other extraction workers","CONSTRUCTION",61,900,58,918,3,NA
+"382","First-line supervisors of mechanics, installers, and repairers","MAINTENANCE",270,1032,252,1033,18,NA
+"383","Computer, automated teller, and office machine repairers","MAINTENANCE",194,856,166,865,28,NA
+"384","Radio and telecommunications equipment installers and repairers","MAINTENANCE",139,862,126,879,13,NA
+"385","Avionics technicians","MAINTENANCE",4,NA,4,NA,0,NA
+"386","Electric motor, power tool, and related repairers","MAINTENANCE",22,NA,20,NA,1,NA
+"387","Electrical and electronics installers and repairers, transportation equipment","MAINTENANCE",2,NA,2,NA,0,NA
+"388","Electrical and electronics repairers, industrial and utility","MAINTENANCE",18,NA,17,NA,0,NA
+"389","Electronic equipment installers and repairers, motor vehicles","MAINTENANCE",17,NA,17,NA,0,NA
+"390","Electronic home entertainment equipment installers and repairers","MAINTENANCE",30,NA,28,NA,2,NA
+"391","Security and fire alarm systems installers","MAINTENANCE",67,911,65,913,2,NA
+"392","Aircraft mechanics and service technicians","MAINTENANCE",133,1025,125,1032,7,NA
+"393","Automotive body and related repairers","MAINTENANCE",120,846,118,849,2,NA
+"394","Automotive glass installers and repairers","MAINTENANCE",21,NA,20,NA,1,NA
+"395","Automotive service technicians and mechanics","MAINTENANCE",710,722,694,724,16,NA
+"396","Bus and truck mechanics and diesel engine specialists","MAINTENANCE",327,831,327,830,0,NA
+"397","Heavy vehicle and mobile equipment service technicians and mechanics","MAINTENANCE",206,928,206,928,0,NA
+"398","Small engine mechanics","MAINTENANCE",39,NA,39,NA,0,NA
+"399","Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers","MAINTENANCE",66,592,65,591,1,NA
+"400","Control and valve installers and repairers","MAINTENANCE",23,NA,23,NA,0,NA
+"401","Heating, air conditioning, and refrigeration mechanics and installers","MAINTENANCE",341,806,337,810,4,NA
+"402","Home appliance repairers","MAINTENANCE",36,NA,36,NA,0,NA
+"403","Industrial and refractory machinery mechanics","MAINTENANCE",394,895,383,894,11,NA
+"404","Maintenance and repair workers, general","MAINTENANCE",469,773,459,771,10,NA
+"405","Maintenance workers, machinery","MAINTENANCE",31,NA,30,NA,1,NA
+"406","Millwrights","MAINTENANCE",49,NA,48,NA,1,NA
+"407","Electrical power-line installers and repairers","MAINTENANCE",113,1105,112,1105,0,NA
+"408","Telecommunications line installers and repairers","MAINTENANCE",157,882,148,880,9,NA
+"409","Precision instrument and equipment repairers","MAINTENANCE",64,996,60,1009,4,NA
+"410","Wind turbine service technicians","MAINTENANCE",3,NA,3,NA,0,NA
+"411","Coin, vending, and amusement machine servicers and repairers","MAINTENANCE",38,NA,34,NA,4,NA
+"412","Commercial divers","MAINTENANCE",1,NA,1,NA,0,NA
+"413","Locksmiths and safe repairers","MAINTENANCE",12,NA,12,NA,0,NA
+"414","Manufactured building and mobile home installers","MAINTENANCE",4,NA,4,NA,1,NA
+"415","Riggers","MAINTENANCE",7,NA,7,NA,0,NA
+"416","Signal and track switch repairers","MAINTENANCE",9,NA,9,NA,0,NA
+"417","Helpers--installation, maintenance, and repair workers","MAINTENANCE",17,NA,17,NA,0,NA
+"418","Other installation, maintenance, and repair workers","MAINTENANCE",150,792,144,810,6,NA
+"419","First-line supervisors of production and operating workers","PRODUCTION",783,875,650,924,133,623
+"420","Aircraft structure, surfaces, rigging, and systems assemblers","PRODUCTION",15,NA,11,NA,4,NA
+"421","Electrical, electronics, and electromechanical assemblers","PRODUCTION",123,554,59,566,64,544
+"422","Engine and other machine assemblers","PRODUCTION",14,NA,12,NA,2,NA
+"423","Structural metal fabricators and fitters","PRODUCTION",31,NA,28,NA,3,NA
+"424","Miscellaneous assemblers and fabricators","PRODUCTION",950,581,573,637,377,512
+"425","Bakers","PRODUCTION",150,505,69,570,80,475
+"426","Butchers and other meat, poultry, and fish processing workers","PRODUCTION",247,542,187,582,60,463
+"427","Food and tobacco roasting, baking, and drying machine operators and tenders","PRODUCTION",9,NA,7,NA,1,NA
+"428","Food batchmakers","PRODUCTION",79,500,25,NA,54,489
+"429","Food cooking machine operators and tenders","PRODUCTION",7,NA,5,NA,2,NA
+"430","Food processing workers, all other","PRODUCTION",132,594,82,679,50,508
+"431","Computer control programmers and operators","PRODUCTION",83,833,81,857,2,NA
+"432","Extruding and drawing machine setters, operators, and tenders, metal and plastic","PRODUCTION",8,NA,7,NA,1,NA
+"433","Forging machine setters, operators, and tenders, metal and plastic","PRODUCTION",6,NA,6,NA,0,NA
+"434","Rolling machine setters, operators, and tenders, metal and plastic","PRODUCTION",15,NA,12,NA,3,NA
+"435","Cutting, punching, and press machine setters, operators, and tenders, metal and plastic","PRODUCTION",78,633,62,674,15,NA
+"436","Drilling and boring machine tool setters, operators, and tenders, metal and plastic","PRODUCTION",5,NA,5,NA,1,NA
+"437","Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal and plastic","PRODUCTION",41,NA,39,NA,3,NA
+"438","Lathe and turning machine tool setters, operators, and tenders, metal and plastic","PRODUCTION",12,NA,11,NA,1,NA
+"439","Milling and planing machine setters, operators, and tenders, metal and plastic","PRODUCTION",1,NA,1,NA,0,NA
+"440","Machinists","PRODUCTION",338,834,320,840,17,NA
+"441","Metal furnace operators, tenders, pourers, and casters","PRODUCTION",29,NA,28,NA,1,NA
+"442","Model makers and patternmakers, metal and plastic","PRODUCTION",6,NA,3,NA,3,NA
+"443","Molders and molding machine setters, operators, and tenders, metal and plastic","PRODUCTION",47,NA,39,NA,9,NA
+"444","Multiple machine tool setters, operators, and tenders, metal and plastic","PRODUCTION",1,NA,1,NA,0,NA
+"445","Tool and die makers","PRODUCTION",49,NA,49,NA,0,NA
+"446","Welding, soldering, and brazing workers","PRODUCTION",568,760,545,767,23,NA
+"447","Heat treating equipment setters, operators, and tenders, metal and plastic","PRODUCTION",4,NA,4,NA,0,NA
+"448","Layout workers, metal and plastic","PRODUCTION",4,NA,4,NA,1,NA
+"449","Plating and coating machine setters, operators, and tenders, metal and plastic","PRODUCTION",24,NA,24,NA,0,NA
+"450","Tool grinders, filers, and sharpeners","PRODUCTION",7,NA,7,NA,0,NA
+"451","Metal workers and plastic workers, all other","PRODUCTION",351,639,278,678,72,581
+"452","Prepress technicians and workers","PRODUCTION",14,NA,12,NA,2,NA
+"453","Printing press operators","PRODUCTION",160,707,134,729,26,NA
+"454","Print binding and finishing workers","PRODUCTION",16,NA,9,NA,6,NA
+"455","Laundry and dry-cleaning workers","PRODUCTION",133,466,53,487,80,460
+"456","Pressers, textile, garment, and related materials","PRODUCTION",21,NA,9,NA,12,NA
+"457","Sewing machine operators","PRODUCTION",147,493,42,NA,105,476
+"458","Shoe and leather workers and repairers","PRODUCTION",5,NA,4,NA,1,NA
+"459","Shoe machine operators and tenders","PRODUCTION",1,NA,0,NA,1,NA
+"460","Tailors, dressmakers, and sewers","PRODUCTION",37,NA,9,NA,27,NA
+"461","Textile bleaching and dyeing machine operators and tenders","PRODUCTION",2,NA,2,NA,0,NA
+"462","Textile cutting machine setters, operators, and tenders","PRODUCTION",9,NA,7,NA,2,NA
+"463","Textile knitting and weaving machine setters, operators, and tenders","PRODUCTION",8,NA,3,NA,4,NA
+"464","Textile winding, twisting, and drawing out machine setters, operators, and tenders","PRODUCTION",7,NA,5,NA,2,NA
+"465","Extruding and forming machine setters, operators, and tenders, synthetic and glass fibers","PRODUCTION",0,NA,0,NA,0,NA
+"466","Fabric and apparel patternmakers","PRODUCTION",4,NA,3,NA,1,NA
+"467","Upholsterers","PRODUCTION",29,NA,21,NA,7,NA
+"468","Textile, apparel, and furnishings workers, all other","PRODUCTION",16,NA,12,NA,4,NA
+"469","Cabinetmakers and bench carpenters","PRODUCTION",40,NA,38,NA,2,NA
+"470","Furniture finishers","PRODUCTION",6,NA,6,NA,0,NA
+"471","Model makers and patternmakers, wood","PRODUCTION",0,NA,0,NA,0,NA
+"472","Sawing machine setters, operators, and tenders, wood","PRODUCTION",26,NA,22,NA,4,NA
+"473","Woodworking machine setters, operators, and tenders, except sawing","PRODUCTION",23,NA,21,NA,1,NA
+"474","Woodworkers, all other","PRODUCTION",17,NA,14,NA,3,NA
+"475","Power plant operators, distributors, and dispatchers","PRODUCTION",35,NA,34,NA,1,NA
+"476","Stationary engineers and boiler operators","PRODUCTION",84,996,81,1012,3,NA
+"477","Water and wastewater treatment plant and system operators","PRODUCTION",82,880,79,868,3,NA
+"478","Miscellaneous plant and system operators","PRODUCTION",35,NA,33,NA,3,NA
+"479","Chemical processing machine setters, operators, and tenders","PRODUCTION",62,1052,57,1082,5,NA
+"480","Crushing, grinding, polishing, mixing, and blending workers","PRODUCTION",82,652,75,668,7,NA
+"481","Cutting workers","PRODUCTION",51,685,41,NA,9,NA
+"482","Extruding, forming, pressing, and compacting machine setters, operators, and tenders","PRODUCTION",31,NA,25,NA,6,NA
+"483","Furnace, kiln, oven, drier, and kettle operators and tenders","PRODUCTION",6,NA,5,NA,0,NA
+"484","Inspectors, testers, sorters, samplers, and weighers","PRODUCTION",701,710,440,844,260,583
+"485","Jewelers and precious stone and metal workers","PRODUCTION",19,NA,11,NA,7,NA
+"486","Medical, dental, and ophthalmic laboratory technicians","PRODUCTION",86,648,44,NA,42,NA
+"487","Packaging and filling machine operators and tenders","PRODUCTION",239,518,118,605,120,482
+"488","Painting workers","PRODUCTION",129,708,110,733,18,NA
+"489","Photographic process workers and processing machine operators","PRODUCTION",26,NA,12,NA,14,NA
+"490","Semiconductor processors","PRODUCTION",1,NA,1,NA,0,NA
+"491","Adhesive bonding machine operators and tenders","PRODUCTION",9,NA,5,NA,4,NA
+"492","Cleaning, washing, and metal pickling equipment operators and tenders","PRODUCTION",4,NA,2,NA,1,NA
+"493","Cooling and freezing equipment operators and tenders","PRODUCTION",4,NA,3,NA,0,NA
+"494","Etchers and engravers","PRODUCTION",12,NA,8,NA,4,NA
+"495","Molders, shapers, and casters, except metal and plastic","PRODUCTION",14,NA,12,NA,2,NA
+"496","Paper goods machine setters, operators, and tenders","PRODUCTION",27,NA,22,NA,5,NA
+"497","Tire builders","PRODUCTION",8,NA,8,NA,0,NA
+"498","Helpers--production workers","PRODUCTION",24,NA,18,NA,7,NA
+"499","Production workers, all other","PRODUCTION",846,625,643,666,203,501
+"500","Supervisors of transportation and material moving workers","TRANSPORTATION",186,894,153,898,33,NA
+"501","Aircraft pilots and flight engineers","TRANSPORTATION",114,1735,104,1830,9,NA
+"502","Air traffic controllers and airfield operations specialists","TRANSPORTATION",32,NA,24,NA,8,NA
+"503","Flight attendants","TRANSPORTATION",63,846,20,NA,43,NA
+"504","Ambulance drivers and attendants, except emergency medical technicians","TRANSPORTATION",18,NA,14,NA,4,NA
+"505","Bus drivers","TRANSPORTATION",323,615,184,681,138,572
+"506","Driver/sales workers and truck drivers","TRANSPORTATION",2687,747,2582,751,105,632
+"507","Taxi drivers and chauffeurs","TRANSPORTATION",253,585,216,600,38,NA
+"508","Motor vehicle operators, all other","TRANSPORTATION",21,NA,18,NA,3,NA
+"509","Locomotive engineers and operators","TRANSPORTATION",44,NA,42,NA,2,NA
+"510","Railroad brake, signal, and switch operators","TRANSPORTATION",5,NA,5,NA,0,NA
+"511","Railroad conductors and yardmasters","TRANSPORTATION",55,1117,52,1137,4,NA
+"512","Subway, streetcar, and other rail transportation workers","TRANSPORTATION",15,NA,12,NA,3,NA
+"513","Sailors and marine oilers","TRANSPORTATION",10,NA,9,NA,0,NA
+"514","Ship and boat captains and operators","TRANSPORTATION",29,NA,28,NA,1,NA
+"515","Ship engineers","TRANSPORTATION",5,NA,4,NA,1,NA
+"516","Bridge and lock tenders","TRANSPORTATION",4,NA,4,NA,0,NA
+"517","Parking lot attendants","TRANSPORTATION",57,492,49,NA,8,NA
+"518","Automotive and watercraft service attendants","TRANSPORTATION",63,452,58,470,5,NA
+"519","Transportation inspectors","TRANSPORTATION",21,NA,14,NA,7,NA
+"520","Transportation attendants, except flight attendants","TRANSPORTATION",17,NA,9,NA,8,NA
+"521","Other transportation workers","TRANSPORTATION",39,NA,35,NA,4,NA
+"522","Conveyor operators and tenders","TRANSPORTATION",7,NA,7,NA,0,NA
+"523","Crane and tower operators","TRANSPORTATION",75,988,71,1016,4,NA
+"524","Dredge, excavating, and loading machine operators","TRANSPORTATION",25,NA,25,NA,0,NA
+"525","Hoist and winch operators","TRANSPORTATION",5,NA,5,NA,0,NA
+"526","Industrial truck and tractor operators","TRANSPORTATION",579,609,541,612,37,NA
+"527","Cleaners of vehicles and equipment","TRANSPORTATION",222,485,200,498,22,NA
+"528","Laborers and freight, stock, and material movers, hand","TRANSPORTATION",1433,526,1214,547,219,455
+"529","Machine feeders and offbearers","TRANSPORTATION",30,NA,21,NA,9,NA
+"530","Packers and packagers, hand","TRANSPORTATION",385,438,158,462,227,424
+"531","Pumping station operators","TRANSPORTATION",18,NA,17,NA,1,NA
+"532","Refuse and recyclable material collectors","TRANSPORTATION",72,501,66,496,6,NA
+"533","Mine shuttle car operators","TRANSPORTATION",0,NA,0,NA,0,NA
+"534","Tank car, truck, and ship loaders","TRANSPORTATION",6,NA,6,NA,0,NA
+"535","Material moving workers, all other","TRANSPORTATION",37,NA,32,NA,5,NA

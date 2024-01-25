@@ -1,0 +1,52 @@
+Area name,Region,Employment,Annual mean wage,Hourly.mean.wage,"Employment per 1,000 jobs",Location Quotient
+Alabama,South,520,84470,40.61,0.271,0.36
+Alaska,West,120,105150,50.55,0.41,0.54
+Arizona,West,2420,96990,46.63,0.838,1.11
+Arkansas,South,250,NA,NA,0.214,0.28
+California,West,17750,133110,64,1.074,1.43
+Colorado,West,3070,105790,50.86,1.171,1.56
+Connecticut,Northeast,760,102100,49.09,0.485,0.64
+Delaware,Northeast,370,127810,61.45,0.853,1.13
+District of Columbia,Northeast,1380,117470,56.48,2.087,2.77
+Florida,South,4590,90850,43.68,0.533,0.71
+Georgia,South,4340,104760,50.36,0.991,1.32
+Hawaii,West,70,84200,40.48,0.12,0.16
+Idaho,West,150,99240,47.71,0.195,0.26
+Illinois,Midwest,4670,104010,50,0.83,1.1
+Indiana,Midwest,2150,75280,36.19,0.72,0.96
+Iowa,Midwest,1510,91470,43.98,1.018,1.35
+Kansas,Midwest,190,93070,44.75,0.139,0.18
+Kentucky,South,NA,79860,38.39,NA,NA
+Louisiana,South,130,79470,38.21,0.073,0.1
+Maine,Northeast,540,90410,43.46,0.912,1.21
+Maryland,Northeast,2280,117660,56.57,0.895,1.19
+Massachusetts,Northeast,2720,111550,53.63,0.801,1.06
+Michigan,Midwest,2990,86680,41.68,0.736,0.98
+Minnesota,Midwest,1320,106130,51.03,0.482,0.64
+Mississippi,South,140,81240,39.06,0.13,0.17
+Missouri,South,2630,89570,43.06,0.964,1.28
+Montana,West,50,77830,37.42,0.099,0.13
+Nebraska,Midwest,800,80590,38.75,0.835,1.11
+Nevada,West,430,97710,46.97,0.335,0.45
+New Hampshire,Northeast,310,96100,46.2,0.491,0.65
+New Jersey,Northeast,2840,120240,57.81,0.737,0.98
+New Mexico,West,180,80290,38.6,0.227,0.3
+New York,Northeast,10050,122540,58.91,1.159,1.54
+North Carolina,South,5050,113980,54.8,1.143,1.52
+North Dakota,Midwest,30,94230,45.31,0.077,0.1
+Ohio,Midwest,3320,87820,42.22,0.639,0.85
+Oklahoma,South,1140,80040,38.48,0.729,0.97
+Oregon,West,1280,111240,53.48,0.7,0.93
+Pennsylvania,Northeast,4310,92760,44.6,0.772,1.03
+Rhode Island,Northeast,410,103950,49.98,0.888,1.18
+South Carolina,South,600,100620,48.37,0.289,0.38
+South Dakota,Midwest,70,87560,42.1,0.164,0.22
+Tennessee,South,980,90720,43.62,0.327,0.44
+Texas,South,5850,114360,54.98,0.479,0.64
+Utah,West,1790,79830,38.38,1.154,1.53
+Vermont,Northeast,150,116220,55.88,0.535,0.71
+Virginia,South,3650,115630,55.59,0.974,1.29
+Washington,West,2460,133900,64.38,0.768,1.02
+West Virginia,South,90,64360,30.94,0.142,0.19
+Wisconsin,Midwest,1490,71710,34.48,0.72,
+,,,,,,
