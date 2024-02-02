@@ -1,4 +1,4 @@
-year.range,year,bach.total,bach.change,bach.males,bach.females,bach.female.percent,master.total,master.males,master.females,doctor.total,doctor.males,doctor.females
+﻿year.range,year,bach.total,bach.change,bach.males,bach.females,bach.female.percent,master.total,master.males,master.females,doctor.total,doctor.males,doctor.females
 1964-65,1964,87.00,†,83.00,4.00,4.60,146.00,140.00,6.00,6.00,5.00,1.00
 1965-66,1965,89.00,2.30,76.00,13.00,14.60,238.00,221.00,17.00,19.00,19.00,0.00
 1966-67,1966,222.00,149.40,198.00,24.00,10.80,449.00,423.00,26.00,38.00,37.00,1.00
@@ -55,4 +55,3 @@ year.range,year,bach.total,bach.change,bach.males,bach.females,bach.female.perce
 2017-18 ,2017,79597.00,11.50,63703.00,15894.00,20.00,46468.00,31397.00,15071.00,2017.00,1580.00,437.00
 2018-19 ,2018,88638.00,11.40,70322.00,18316.00,20.70,45671.00,30673.00,14998.00,2224.00,1716.00,508.00
 2019-20,2019,97047.00,9.50,76331.00,20716.00,21.30,51521.00,34394.00,17127.00,2414.00,1867.00,547.00
-
