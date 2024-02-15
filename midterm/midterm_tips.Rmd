@@ -1,0 +1,22 @@
+---
+title: "Harp 325 Midterm"
+output: html_notebook
+---
+
+Use the following data to produce 1 table of summary information and 2-3 graphs. 
+
+Notes on the data: the total, professional, and computer_all job groups are available for all four years of data. Focus on these if you want to produce graphs of jobs over time. The individual occupations change from one year to the next, so you will not be able to graph them over time (with the exception of computer programmers). You may, however, filter one year of data and make a bar or point plot for each occupation in that year. 
+
+The All variable is measured as total jobs in that category, while Women, Black, Asian, and Latino are the percent of workers who identify with each group. You cannot put All on the same plot as one of these variables, since they are measured in different units. 
+
+The goal of the assignment is not only to practice making plots: your task is to present the data in a clear and meaningful way. Points will be deducted, for example, from plots that are hard to read or understand. You are also encouraged to think about how to use colors, labels, and themes effectively. Graphs with multiple groups must have a legend. 
+
+Although you will need to filter the data, it does not need to be cleaned up too much in order to be graphed. Don't overthink it!
+
+```{r}
+#setwd("~/Binghamton/harp325")
+data <- read.csv("occupation_gender_race.csv", stringsAsFactors = F, fileEncoding="UTF-8-BOM")
+
+library(dplyr)
+library(ggplot2)
+```
