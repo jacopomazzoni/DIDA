@@ -14,9 +14,10 @@ The goal of the assignment is not only to practice making plots: your task is to
 Although you will need to filter the data, it does not need to be cleaned up too much in order to be graphed. Don't overthink it!
 
 ```{r}
-#setwd("~/Binghamton/harp325")
-data <- read.csv("occupation_gender_race.csv", stringsAsFactors = F, fileEncoding="UTF-8-BOM")
+data <- read.csv("http://tinyurl.com/dida325midtermdata", stringsAsFactors = F, fileEncoding="UTF-8-BOM")
 
 library(dplyr)
 library(ggplot2)
+
 ```
+
