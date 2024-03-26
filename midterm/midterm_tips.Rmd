@@ -14,10 +14,114 @@ The goal of the assignment is not only to practice making plots: your task is to
 Although you will need to filter the data, it does not need to be cleaned up too much in order to be graphed. Don't overthink it!
 
 ```{r}
-data <- read.csv("http://tinyurl.com/dida325midtermdata", stringsAsFactors = F, fileEncoding="UTF-8-BOM")
+rm(list=ls())
 
+data <- read.csv("http://tinyurl.com/dida325midtermdata", stringsAsFactors = F, fileEncoding="UTF-8-BOM")
+View(data)
 library(dplyr)
 library(ggplot2)
 
 ```
+
+
+
+
+clean up data to remove NA and insure that i'm not getting NA's as a result:
+```{r}
+#clean up data
+data<-na.omit(data)
+```
+
+
+
+
+filter by job type and store in separate dataframe:
+```{r}
+comp_all <- data %>% filter(job_type == "computer_all")
+```
+
+here we write what it does
+```{r}
+
+```
+
+view data:
+```{r}
+View(comp_all)
+```
+
+
+plot data for women in cc to see if there's any specific trend
+```{r}
+ggplot(comp_all)+
+  geom_line(aes(x=year,y=Women))
+```
+this shows me that 2015 was a bad year for women in cs
+maybe i should look at other categories to see if that year was also bad
+
+
+
+
+total check
+```{r}
+data_2015 <- data %>% filter(year==2015)
+not_total <- data_2015 %>% filter(job_type!="total")
+not_total %>% summarise(sum(All)) %>% head()
+data_2015 %>% filter(job_type=="total") %>%  head()
+
+```
+
+
+
+
+
+
+test total
+```{r}
+
+library(ggplot2)
+
+wide_data <- data %>% select( year,job_type,Women,Asian)
+
+long_data <- wide_data %>% 
+  #The column titles become the categories in a new column after the reshaping
+  #I'm naming this new column Gender
+  #The number of students are put in a new values column, which I'm calling Majors
+  pivot_longer(-c(year,job_type), names_to = "category", values_to = "percentage")
+
+ggplot(long_data , aes(x = year , y= percentage, group = category, fill=category)) +
+  geom_bar(position="dodge", stat = "identity")
+
+
+
+
+#job type stats for women
+long_data_w <- long_data %>% filter(category=="Women")
+long_data_w <- long_data_w %>% select(-category)
+
+ggplot(long_data_w , aes(x = year , y= percentage, group = job_type, fill=job_type)) +
+  geom_bar(position="dodge", stat = "identity")
+
+
+
+ggplot(data , aes(x = year , y= Women, group = job_type, fill=job_type)) +
+  geom_bar(position="dodge", stat = "identity")
+
+
+
+
+
+ggplot(data , aes(x = year , y= Women, group = job_type, fill=job_type)) +
+  geom_bar(position="dodge", stat = "identity")
+
+
+
+?geom_bar
+View(data_2015)
+```
+
+
+
+
+
 
